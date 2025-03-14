@@ -22,6 +22,8 @@ projet_orange_valley_flutter/
 │── .idea/                                              
 │── .vscode/                                            
 │── lib/    
+│   ├── models
+│   │   └── video.dart  
 │   ├── pages
 │   │   └── home_page.dart                        
 │   └── main.dart                                     
